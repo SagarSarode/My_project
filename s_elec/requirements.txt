@@ -1,0 +1,3 @@
+pip install mysqlclient
+pip install PyMySQL
+pip install SQLAlchemy
